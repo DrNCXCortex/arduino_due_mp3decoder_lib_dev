@@ -1,4 +1,4 @@
 # arduino_due_mp3decoder_lib_dev
-converted mp3 software decoder for Arduino Due, still working on (compilable without errors)
+converted mp3 software decoder for Arduino Due, still working on (compilable without errors) requiring <SDFAT.h>  + <Audio.h> Libraries
 
-status: first functions working, but need to create init mp3 variables and more, also need attach SD card library... so not working yet.
+status: Working but Slow Conversion, so try to convert to 8bit
